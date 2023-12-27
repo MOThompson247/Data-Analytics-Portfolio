@@ -7,7 +7,7 @@ What player attributes (speed, height, passing ability, ball control, etc.) are 
 ## Project Highlights
 - Utilizes the Pearson correlation test for statistical significance evaluation.
 - Employs visualizations such as heatmaps, bar charts, and regression plots.
-- Criteria for success include statistical evidence, concise visualizations, and a detailed report (video presentation).
+- Criteria for success include statistical evidence, concise visualizations, and a detailed report.
 
 ## Project Objectives and Deliverables
 1. **Objective:** Import and cleanse the dataset.
