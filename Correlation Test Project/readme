@@ -18,8 +18,3 @@ What player attributes (speed, height, passing ability, ball control, etc.) are 
 
 3. **Objective:** Create easily understood visualizations.
    - **Deliverable 3.1:** Heatmaps, bar charts, and regression plots illustrating attribute correlations.
-
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/soccer-player-analysis.git
